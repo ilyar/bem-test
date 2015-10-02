@@ -1,0 +1,8 @@
+.menu {
+	list-style: none;
+	color: green;
+}
+
+.menu__item {
+	margin-left: 10px;
+}
